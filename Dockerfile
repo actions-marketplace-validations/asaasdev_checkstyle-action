@@ -1,4 +1,4 @@
-FROM eclipse-temurin:11-alpine
+FROM eclipse-temurin:25-alpine
 
 ENV REVIEWDOG_VERSION=v0.20.3
 
